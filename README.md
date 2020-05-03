@@ -6,4 +6,6 @@ It is designed for beginners. the best thing about it is that, it doesn't requir
 Please Change the Admin and Password in all file. (they are on the top).
 And, Please Use Your Google Captcha Sitekey and Secret in Admin.php and Process_data.php. 
 
+Copy the Index.php file and create as many page as you want.
+
 Thankyou 
