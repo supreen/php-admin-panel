@@ -10,6 +10,8 @@
 //theusername and password 
 $setadmin="admin"; 
 $setpass="password";
+
+// you can get the secret from https://www.google.com/recaptcha/admin/create . make sure that it is captcha v2 and i am not robot. 
 $secret="google captcha v2 secret code";
 
 
@@ -35,7 +37,14 @@ session_unset();
 // destroy the session
 session_destroy();
 
+			echo '
 	
+	<script>
+	window.location.href = "index.php";
+	</script>
+	
+	
+	';
 	
 }
 
