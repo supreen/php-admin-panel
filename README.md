@@ -9,3 +9,6 @@ And, Please Use Your Google Captcha Sitekey and Secret in Admin.php and Process_
 Copy the Index.php file and create as many page as you want.
 
 Thankyou 
+
+Consider buying me a coffee, if you liked my work.
+https://www.buymeacoffee.com/suprin
