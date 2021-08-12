@@ -10,5 +10,5 @@ Copy the Index.php file and create as many page as you want.
 
 Thankyou 
 
-Consider buying me a coffee, if you liked my work.
+Consider buying me a coffee, if you loved my work.
 https://www.buymeacoffee.com/suprin
