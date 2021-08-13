@@ -26,6 +26,13 @@ https://www.buymeacoffee.com/suprin
 
 
 
-</h> Images </h1>
+<h1> Images </h1>
+<bn>
+  
+<h2> Admin.php </h2>
+
 ![Image of Admin Panel](https://suprin.sobdar.com/references/adlogin.JPG)
-![Image of Index](https://suprin.sobdar.com/references/ad2.JPG)
+
+<h2> Index.php </h2>
+  
+ ![Image of Index](https://suprin.sobdar.com/references/ad2.JPG)
