@@ -1,5 +1,5 @@
 # php-admin-panel
-This is a simple PHP, Jquery, ajax admin panel for small softwares and website panels. it uses google captcha. it is not depended on sql, but it keeps data in every file [After Update, it is only in one file named credential.php]
+This is a simple PHP, Jquery, ajax admin panel for small softwares and website panels. it uses google captcha. it is not depended on sql, but it keeps data in every file [After Update, all data is kept in one file named credential.php]
 
 It is designed for beginners. the best thing about it is that, it doesn't require sql
 
