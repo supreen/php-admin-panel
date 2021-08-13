@@ -9,6 +9,8 @@ And, Please Use Your Google Captcha Sitekey and Secret in Admin.php and Process_
 Copy the Index.php file and create as many page as you want.
 
 <h1> Updated on 13/08/2021 </h1>
+<ul> UI improved </ul>
+<ul> background and Logo added </ul>
 <ul> Now you need to put Admin name, Password, Sitekey, SecretKey just in one file called Credential.php </ul>
 <ul> Navbar can be updated via navbar.php too </ul>
 <ul> Replace logo.png with any logo of your choice </ul>
