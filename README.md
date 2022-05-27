@@ -20,9 +20,11 @@ Copy the Index.php file and create as many page as you want.
 
 Thankyou 
 
-Consider buying me a coffee, if you loved my work.
-https://www.buymeacoffee.com/suprin
+<h3>Consider buying me a coffee, if you loved my work.</h3>
+<li>https://www.buymeacoffee.com/suprin
 
+<h3>If you are still finding it hard, Hire me</h3> 
+<li>https://www.fiverr.com/supree
 
 
 
