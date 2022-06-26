@@ -1,10 +1,12 @@
 # php-admin-panel
 This is a simple PHP, Jquery, ajax admin panel for small softwares and website panels. it uses google captcha. it is not depended on sql, but it keeps data in every file [After Update, all data is kept in one file named credential.php]
+<li>For SQL based Admin Panel please visit</li>
+<li>https://github.com/supreen/Php-Sql-admin-panel/</li>
 
-It is designed for beginners. the best thing about it is that, it doesn't require sql
 
-Please Change the Admin and Password in all file. (they are on the top). [after update they are in one file named credential.php]
-And, Please Use Your Google Captcha Sitekey and Secret in Admin.php and Process_data.php. [after update they are in one file named credential.php]
+It is designed for beginners.However, it does require sql
+
+APlease Use Your Google Captcha Sitekey and Secret [after update they are in one file named credential.php]
 
 Copy the Index.php file and create as many page as you want.
 
