@@ -37,4 +37,4 @@ Thankyou
 
 <h2> Index.php </h2>
   
- ![Image of Index]((https://github.com/supreen/php-admin-panel//blob/master/login/images/index.JPG?raw=true))
+ ![Image of Index](https://raw.githubusercontent.com/supreen/php-admin-panel/master/login/images/index.JPG)
