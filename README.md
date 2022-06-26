@@ -30,10 +30,11 @@ Copy the Index.php file and create as many page as you want.
 Thankyou 
 
 <h3>Consider buying me a coffee, if you loved my work.</h3>
-<li>https://www.buymeacoffee.com/suprin
+<li>https://www.buymeacoffee.com/suprin</li>
 
 <h3>If you are still finding it hard, Hire me</h3> 
-<li>https://www.fiverr.com/supree
+<li>https://www.fiverr.com/supreen</li>
+<li>or put an order at <b> https://sobdar.com</b></li>
 
 
 
