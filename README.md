@@ -12,11 +12,11 @@ Copy the Index.php file and create as many page as you want.
 <ul> UI improved </ul>
 <ul> background and Logo added </ul>
 <ul> Now you need to put Admin name, Password, Sitekey, SecretKey just in one file called Credential.php </ul>
+<ul>Get your google captcha sitekey and secret for your website from https://www.google.com/recaptcha/admin/create . make sure that it is "captcha v2" and "i am not robot" and put them in credential.php.</ul> 
 <ul> Navbar can be updated via navbar.php too </ul>
 <ul> Replace logo.png with any logo of your choice </ul>
 <ul> Change the background image via \login\images\bg-01.jpg </ul>
   
-
 
 Thankyou 
 
