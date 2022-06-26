@@ -16,7 +16,14 @@ Copy the Index.php file and create as many page as you want.
 <ul> Navbar can be updated via navbar.php too </ul>
 <ul> Replace logo.png with any logo of your choice </ul>
 <ul> Change the background image via \login\images\bg-01.jpg </ul>
-  
+
+<h1> Updated on 26/06/2022 </h1>  
+<ul> UI improved </ul>
+<ul> New Modern Navbar added </ul>
+<ul> Index.php preview updated in readme </ul>
+<ul> CSS, JS and other files were missing, they are added </ul>
+<ul> Instruction to get Captcha sitekey and secret key added </ul>
+<ul> SQL based Admin panel created in new repository </ul>
 
 Thankyou 
 
