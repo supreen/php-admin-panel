@@ -34,6 +34,9 @@ Copy the Index.php file and create as many page as you want.
 
 
 Thankyou 
+<h3> Here is the demo (SQL based)</h3>
+
+<li>https://demoadmin.sobdar.com/</li>
 
 <h3>Consider buying me a coffee, if you loved my work.</h3>
 <li>https://www.buymeacoffee.com/suprin</li>
