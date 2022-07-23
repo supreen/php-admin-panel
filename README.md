@@ -27,6 +27,12 @@ Copy the Index.php file and create as many page as you want.
 <ul> Instruction to get Captcha sitekey and secret key added </ul>
 <ul> SQL based Admin panel created in new repository </ul>
 
+<h1> Updated on 23/07/2022 </h1>  
+<ul> nav bar was not showing properly. (bug fixed) </ul>
+<ul> Navbar is now fully functional and clickable </ul>
+<ul> add your codes in the resources folder to give life to your panel</ul>
+
+
 Thankyou 
 
 <h3>Consider buying me a coffee, if you loved my work.</h3>
