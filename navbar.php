@@ -1,85 +1,55 @@
 <?php 
 
-echo "
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
-}
-</style>
-</head>
-<body>
+echo '
 
+ <div class="sidebar">
+       <div id="nav">
+       <div id="tab-container">
+<nav class="nav">
+            <div> 
+			<a href="#" class="nav_logo" > 
+			<i class="bx bx-layer nav_logo-icon"></i> 
+			<span class="nav_logo-name">Admin Panel</span> </a>
+			
+            <div class="nav_list"> 
+			<a href="#" class="nav_link active" data-tab="#tab-dashboard"> 
+			<i class="bx bx-grid-alt nav_icon"></i> 
+			<span class="nav_name">Dashboard</span> </a> 
+			
+			<a href="#" class="nav_link" data-tab="#tab-data"> 
+			<i class="bx bx-book-alt nav_icon"></i> 
+			<span class="nav_name">Database</span> </a> 
+			
+			<a href="#" class="nav_link" data-tab="#tab-ad"> 
+			<i class="bx bx-money-withdraw"></i> 
+			<span class="nav_name">Advertisements</span></a> 
+			
+			<a href="#" class="nav_link" data-tab="#tab-tools"> 
+			<i class="bx bx-atom">
+			</i> <span class="nav_name">Tools</span> </a> 
+			
+			
+			<a href="#" class="nav_link" data-tab="#tab-settings"> 
+			<i class="bx bx-bar-chart-alt-2 nav_icon">
+			</i> <span class="nav_name">Settings</span> </a> 
+			
+			</div>
+            
+			</div> 
+			
+			<a href="process_data.php?logout=yes" class="nav_link"> 
+			<i class="bx bx-log-out nav_icon">
+			</i> <span class="nav_name">SignOut</span> </a>
+        </nav>
+		</div>
+		</div>
+		</div>'
+		;
 
-<style>
-.navbar {
-  overflow: hidden;
-  background-color: #333; 
-}
+  
+       
 
-.navbar a {
-  float: left;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.subnav {
-  float: left;
-  overflow: hidden;
-}
-
-.subnav .subnavbtn {
-  font-size: 16px;  
-  border: none;
-  outline: none;
-  color: white;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
-
-.navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: red;
-}
-
-.subnav-content {
-  display: none;
-  position: absolute;
-  left: 0;
-  background-color: red;
-  width: 100%;
-  z-index: 1;
-}
-
-.subnav-content a {
-  float: left;
-  color: white;
-  text-decoration: none;
-}
-
-.subnav-content a:hover {
-  background-color: #eee;
-  color: black;
-}
-
-.subnav:hover .subnav-content {
-  display: block;
-}
-</style>
-";
-
-
-
-echo '<div class="navbar">
-
-  <a href="process_data.php?logout=yes">logout</a>
 
    
-    
-</div>';
  
 ?>
