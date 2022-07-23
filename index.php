@@ -67,7 +67,7 @@ if ($sessionadmin==$setadmin && $sessionpass==$setpass){
 <!--CSS resources-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" type="text/css">
-    	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.js"></script>
+    	<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.js"></script>
 	<script type="text/javascript">
 		$(function(){
 			$("#tab-container").on("click", ".nav_link", function(){
